@@ -1,5 +1,5 @@
 ﻿# ProjectFANTOM
-## Neural Network/Genetic Algorithm-based approach to flying an F-15E simulator 
+Neural Network/Genetic Algorithm-based approach to flying an F-15E simulator 
 
 
 ![0001](https://github.com/annallucille/ProjectFANTOM/assets/100645252/11cd9b22-e4e5-4f01-a618-e9f1d7225acf)
